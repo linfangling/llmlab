@@ -7,4 +7,5 @@ torch
 numpy
 pandas
 matplotlib
-seaborn
+PyPDF2
+tiktoken
