@@ -12,7 +12,7 @@ from collections import Counter
 import datetime
 import json
 import os
-import PyPdf2
+import pyPdf2
 import glob
 import tiktoken
 import re
